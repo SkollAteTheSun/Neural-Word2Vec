@@ -1,7 +1,7 @@
 # Neural-Word2Vec
 Neural network of direct distribution
 
-Build classifiers to assess the sentiment of texts. Train models on a dataset from the RuTweetCorp corpus
+Build classifiers to assess the sentiment of texts. Train models on a dataset from the TweetCorp corpus
 To solve the problem, it is necessary to use 2 sets of features:
   1. Word2vec-features.
   2. Pre-trained Word2vec features.
