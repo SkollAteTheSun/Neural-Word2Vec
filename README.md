@@ -1,6 +1,7 @@
 # Neural-Word2Vec
 
-Task Formulation:
+**Task Formulation:**
+
 Build classifiers to assess the sentiment of texts. Train models on a dataset from the TweetCorp corpus
 To solve the problem, it is necessary to use 2 sets of features:
   1. Word2vec-features.
